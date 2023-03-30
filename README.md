@@ -6,4 +6,4 @@ blog
 
 这是一段文字  
 
-[百度一下](www.baidu.com)
+[百度一下](http://www.baidu.com)
