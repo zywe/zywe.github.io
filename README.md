@@ -1,6 +1,6 @@
 
-# blog.cloudwen.com
-blog
+
+# blog
 
 ***
 
@@ -8,7 +8,6 @@ blog
 
 *** 
 
-这是一段文字  
 
 [百度一下](http://www.baidu.com)  
 
