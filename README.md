@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # blog.cloudwen.com
 blog
 
